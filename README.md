@@ -1,4 +1,4 @@
-# DSE_Practicals
+# DAV_Practicals
 
 ## 1. Write programs in Python using NumPy library to do the following:
      a. Create a two dimensional array, ARR1 having random values from 0 to 1. Compute the mean, standard 
